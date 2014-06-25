@@ -1,5 +1,6 @@
 MorduBear::Application.routes.draw do
 
+  resources :spare_parts
   resources :users
 
   get "static_pages/preoperation"
@@ -9,6 +10,7 @@ MorduBear::Application.routes.draw do
 
   root  'static_pages#index'
   match '/signup',  to: 'users#new',            via: 'get'
+  match '/new_spare_part', to: 'spare_parts#new', via: 'get'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
