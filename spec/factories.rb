@@ -1,4 +1,10 @@
 FactoryGirl.define do
+  factory :user do
+    name     "Michael Hartl"
+    lastname    "michael@example.com"
+    permissions "34"
+    password "foobar"
+    password_confirmation "foobar"
 
   factory :spare_part do
     brand     "VW"
@@ -9,5 +15,4 @@ FactoryGirl.define do
     name "Volante"
     type "Externa"
   end
-  
 end
