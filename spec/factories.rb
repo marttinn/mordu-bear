@@ -5,7 +5,8 @@ FactoryGirl.define do
     permissions "34"
     password "foobar"
     password_confirmation "foobar"
-
+  end
+  
   factory :spare_part do
     brand     "VW"
     car    "Jetta"

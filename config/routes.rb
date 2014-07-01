@@ -1,5 +1,6 @@
 MorduBear::Application.routes.draw do
 
+  get "cars/new"
   resources :spare_parts
   resources :users
 
