@@ -6,14 +6,11 @@ FactoryGirl.define do
     password "foobar"
     password_confirmation "foobar"
   end
-  
-  factory :spare_part do
+
+  factory :sparePart do
     brand     "VW"
-    car    "Jetta"
-    generation "Cuarta"
-    region "Facia"
-    year "2014"
-    name "Volante"
-    type "Externa"
+    name    "Para Choques"
+    description "Pieza que va delante del coche"
+    carRegion "Facia"
   end
 end

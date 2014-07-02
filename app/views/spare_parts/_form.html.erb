@@ -1,40 +1,27 @@
-    <%= form_for(@spare_part) do |f| %>
+    <%= form_for(@sparePart) do |f| %>
       <%= render 'shared/errors_messages' %>
 
     <div class="form-group">
-      <!-- <%= f.label :brand, "Marca" %> -->
+      <%= f.text_field :name, :placeholder => "Nombre", :class => 'form-control' %>
+    </div>
+
+    <div class="form-group">
       <%= f.text_field :brand, :placeholder => "Marca", :class => 'form-control' %>
     </div>
 
     <div class="form-group">
-      <!-- <%= f.label :car, "Carro" %> -->
-      <%= f.text_field :car, :placeholder => "Carro", :class => 'form-control' %>
+      <%= f.text_field :description, :placeholder => "Descripción", :class => 'form-control' %>
     </div>
 
     <div class="form-group">
-      <!-- <%= f.label :generation, "Generación" %> -->
-      <%= f.text_field :generation, :placeholder => "Generación", :class => 'form-control'  %>
+      <%= f.text_field :carRegion, :placeholder => "Región", :class => 'form-control' %>
     </div>
 
     <div class="form-group">
-      <!-- <%= f.label :region, "Region" %> -->
-      <%= f.text_field :region, :placeholder => "Region", :class => 'form-control'  %>
+      <%= f.text_field :parent_id, :placeholder => "Padre", :class => 'form-control' %>
     </div>
 
-    <div class="form-group">
-      <!-- <%= f.label :year, "Año" %> -->
-      <%= f.text_field :year, :placeholder => "Año", :class => 'form-control' %>
-    </div>
-
-    <div class="form-group">
-      <!-- <%= f.label :name, "Nombre" %> -->
-      <%= f.text_field :name, :placeholder => "Nombre", :class => 'form-control'  %>
-    </div>
-
-    <div class="form-group">
-      <!-- <%= f.label :type, "Tipo" %> -->
-      <%= f.text_field :kind, :placeholder => "Tipo", :class => 'form-control'  %>
-    </div>
+    <a href="#">Asignar a un Auto</a>
 
       <%= f.submit "Guardar", :class => 'btn btn-default'%>
     <% end %>

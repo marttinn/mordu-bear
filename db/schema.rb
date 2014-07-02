@@ -39,6 +39,7 @@ ActiveRecord::Schema.define(version: 20140701000951) do
     t.text     "description"
     t.string   "carRegion"
     t.integer  "parent_id"
+    t.string   "brand"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
