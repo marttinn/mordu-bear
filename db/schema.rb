@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140625011040) do
+ActiveRecord::Schema.define(version: 20140627225734) do
 
   create_table "spare_parts", force: true do |t|
     t.string   "brand"
@@ -32,6 +32,10 @@ ActiveRecord::Schema.define(version: 20140625011040) do
     t.integer  "permissions"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "remember_token"
+    t.string   "email"
   end
+
+  add_index "users", ["remember_token"], name: "index_users_on_remember_token"
 
 end

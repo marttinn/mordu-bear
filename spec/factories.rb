@@ -1,10 +1,12 @@
 FactoryGirl.define do
   factory :user do
-    name     "Michael Hartl"
-    lastname    "michael@example.com"
-    permissions "34"
-    password "foobar"
-    password_confirmation "foobar"
+    name     "Kevin"
+    lastname    "Mendez"
+    email  "kevin@mendez.com"
+    permissions "2"
+    password "goSerbear"
+    password_confirmation "goSerbear"
+  end
 
   factory :spare_part do
     brand     "VW"
