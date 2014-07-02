@@ -14,13 +14,16 @@
       <%= f.label :lastname,"Apellidos" %>
       <%= f.text_field :lastname %>
 
+      <%= f.label :email,"Correo Electrónico" %>
+      <%= f.text_field :email %>
+
       <%= f.label :permissions, "Permisos" %>
       <%= f.text_field :permissions %>
 
-      <%= f.label :password %>
+      <%= f.label :password, "Contraseña" %>
       <%= f.password_field :password %>
 
-      <%= f.label :password_confirmation,'Confirmación de Password' %>
+      <%= f.label :password_confirmation,"Confirmación de Contraseña" %>
       <%= f.password_field :password_confirmation %>
 
       <%= f.submit "Crear Usuario", class: "btn btn-large btn-primary" %>

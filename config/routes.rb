@@ -3,15 +3,21 @@ MorduBear::Application.routes.draw do
   get "cars/new"
   resources :spare_parts
   resources :users
+  #recursos de sesión
+  resources :sessions, only: [:new, :create, :destroy]
 
   get "static_pages/preoperation"
   get "static_pages/operation"
   get "static_pages/administration"
 
 
-  root  'static_pages#index'
+  root  'sessions#new'
   match '/signup',  to: 'users#new',            via: 'get'
   match '/new_spare_part', to: 'spare_parts#new', via: 'get'
+
+  #rutas para manejar sesiones
+  match '/signin',  to: 'sessions#new',         via: 'get'
+  match '/signout', to: 'sessions#destroy',     via: 'delete'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
