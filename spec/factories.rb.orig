@@ -1,5 +1,5 @@
 FactoryGirl.define do
-<<<<<<< HEAD
+
 
   factory :spare_part do
     brand     "VW"
@@ -11,7 +11,7 @@ FactoryGirl.define do
     type "Externa"
   end
   
-=======
+
   factory :user do
     name     "Michael Hartl"
     lastname    "michael@example.com"

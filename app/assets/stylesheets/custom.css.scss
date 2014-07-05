@@ -1,25 +1,21 @@
-<<<<<<< HEAD
 $navbar-height : 200px;
 $bgHighlight        : #ffffff;
 $colDefault     : #ecf0f1;
 $colHover       : #fbfbfb;
 
 @import "bootstrap";
-=======
 @import "bootstrap";
 
 /* mixins, variables, etc. */
 
 $grayMediumLight: #eaeaea;
 
->>>>>>> 9db73cf6116c96f90b8233240989e0dd73442a0e
 @mixin box_sizing {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
 
-<<<<<<< HEAD
 .debug_dump {
   clear: both;
   float: left;
@@ -58,7 +54,6 @@ h2{
     color: #333;
 }
 
-=======
 /* universal */
 
 html {
@@ -138,7 +133,6 @@ p {
 
 /* footer */
 
->>>>>>> 9db73cf6116c96f90b8233240989e0dd73442a0e
 footer {
   margin-top: 45px;
   padding-top: 5px;
@@ -161,10 +155,8 @@ footer {
       margin-left: 10px;
     }
   }
-<<<<<<< HEAD
 }
-=======
-}
+
 
 .debug_dump{
   clear: both;
@@ -200,4 +192,3 @@ input {
   @extend .control-group;
   @extend .error;
 }
->>>>>>> 9db73cf6116c96f90b8233240989e0dd73442a0e

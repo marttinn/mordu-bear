@@ -11,11 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-<<<<<<< HEAD
 ActiveRecord::Schema.define(version: 20140701000951) do
-=======
-ActiveRecord::Schema.define(version: 20140627225734) do
->>>>>>> sign-in-page-authentication
 
   create_table "brands", force: true do |t|
     t.string   "name"
@@ -66,7 +62,8 @@ ActiveRecord::Schema.define(version: 20140627225734) do
     t.string   "email"
   end
 
-<<<<<<< HEAD
+  add_index "users", ["remember_token"], name: "index_users_on_remember_token"
+
   create_table "warehouses", force: true do |t|
     t.string   "branch"
     t.string   "location"
@@ -86,8 +83,5 @@ ActiveRecord::Schema.define(version: 20140627225734) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
-=======
-  add_index "users", ["remember_token"], name: "index_users_on_remember_token"
->>>>>>> sign-in-page-authentication
 
 end

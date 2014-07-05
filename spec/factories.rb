@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :user do
-<<<<<<< HEAD
+
     name     "Michael Hartl"
     lastname    "michael@example.com"
     permissions "34"
@@ -8,7 +8,7 @@ FactoryGirl.define do
     password_confirmation "foobar"
   end
   
-=======
+
     name     "Kevin"
     lastname    "Mendez"
     email  "kevin@mendez.com"
