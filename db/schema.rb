@@ -11,7 +11,49 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140621004813) do
+<<<<<<< HEAD
+ActiveRecord::Schema.define(version: 20140701000951) do
+=======
+ActiveRecord::Schema.define(version: 20140627225734) do
+>>>>>>> sign-in-page-authentication
+
+  create_table "brands", force: true do |t|
+    t.string   "name"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "cars", force: true do |t|
+    t.string   "carType"
+    t.string   "year"
+    t.string   "generation"
+    t.string   "model"
+    t.integer  "brand_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "cars_spare_parts", id: false, force: true do |t|
+    t.integer "id_car"
+    t.integer "id_spare_part"
+  end
+
+  create_table "spare_parts", force: true do |t|
+    t.string   "name"
+    t.text     "description"
+    t.string   "carRegion"
+    t.integer  "parent_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "stock_spare_parts", force: true do |t|
+    t.string   "status"
+    t.integer  "workshop_car_id"
+    t.integer  "spare_part_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "users", force: true do |t|
     t.string   "name"
@@ -20,6 +62,32 @@ ActiveRecord::Schema.define(version: 20140621004813) do
     t.integer  "permissions"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "remember_token"
+    t.string   "email"
   end
+
+<<<<<<< HEAD
+  create_table "warehouses", force: true do |t|
+    t.string   "branch"
+    t.string   "location"
+    t.string   "geolocation"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "workshop_cars", force: true do |t|
+    t.string   "color"
+    t.integer  "doorNumber"
+    t.string   "status"
+    t.string   "idSerie"
+    t.string   "idMotor"
+    t.string   "licensePlates"
+    t.integer  "car_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+=======
+  add_index "users", ["remember_token"], name: "index_users_on_remember_token"
+>>>>>>> sign-in-page-authentication
 
 end

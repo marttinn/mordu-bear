@@ -1,2 +1,32 @@
-<h1>Users#new</h1>
-<p>Find me in app/views/users/new.html.erb</p>
+<% provide(:title, 'Alta de Usuarios') %>
+<h1>Dar de Alta</h1>
+<p>Llena los datos del nuevo usuario</p>
+
+<div class="row">
+  <div class="span6 offset3">
+    <%= form_for(@user) do |f| %>
+
+      <%= render 'shared/error_messages' %>
+
+      <%= f.label :name, "Nombre" %>
+      <%= f.text_field :name %>
+
+      <%= f.label :lastname,"Apellidos" %>
+      <%= f.text_field :lastname %>
+
+      <%= f.label :email,"Correo Electrónico" %>
+      <%= f.text_field :email %>
+
+      <%= f.label :permissions, "Permisos" %>
+      <%= f.text_field :permissions %>
+
+      <%= f.label :password, "Contraseña" %>
+      <%= f.password_field :password %>
+
+      <%= f.label :password_confirmation,"Confirmación de Contraseña" %>
+      <%= f.password_field :password_confirmation %>
+
+      <%= f.submit "Crear Usuario", class: "btn btn-large btn-primary" %>
+    <% end %>
+  </div>
+</div>

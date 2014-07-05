@@ -1,0 +1,7 @@
+<h2>Refacciones</h2>
+
+<% @spare_parts.each do |spare_part| %>
+    <li>
+      <%= link_to spare_part.name, spare_part %>
+    </li>
+  <% end %>
