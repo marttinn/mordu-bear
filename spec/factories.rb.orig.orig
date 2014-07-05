@@ -1,6 +1,6 @@
 FactoryGirl.define do
   factory :user do
-<<<<<<< HEAD
+
     name     "Michael Hartl"
     lastname    "michael@example.com"
     permissions "34"
@@ -9,7 +9,7 @@ FactoryGirl.define do
   end
 <<<<<<< HEAD
   
-=======
+
     name     "Kevin"
     lastname    "Mendez"
     email  "kevin@mendez.com"
@@ -17,11 +17,9 @@ FactoryGirl.define do
     password "goSerbear"
     password_confirmation "goSerbear"
   end
-
->>>>>>> sign-in-page-authentication
 =======
+>>>>>>> 796b45373a291b986a27e37d7239a71be753b242
 
->>>>>>> Dar-Alta-Coches
   factory :spare_part do
     brand     "VW"
     car    "Jetta"
