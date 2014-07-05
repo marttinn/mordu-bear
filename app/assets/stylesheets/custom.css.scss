@@ -1,0 +1,73 @@
+$navbar-height : 200px;
+$bgHighlight        : #ffffff;
+$colDefault     : #ecf0f1;
+$colHover       : #fbfbfb;
+
+@import "bootstrap";
+@mixin box_sizing {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.debug_dump {
+  clear: both;
+  float: left;
+  width: 100%;
+  margin-top: 45px;
+  @include box_sizing;
+}
+
+.topbar{
+    background-color: #3e3e3e;
+    color: #fff;
+}
+
+$grayMediumLight: #333;
+
+.background {
+    background-color: #ddd;
+
+}
+
+header {
+    box-shadow: none;
+}
+
+h1 {
+    font-family: 'Source Sans Pro';
+    font-weight:300;
+    font-size: 50px;
+    color: #fb3;
+}
+
+h2{
+    font-family: inherit;
+    font-weight:300;
+    font-size:40px;
+    color: #333;
+}
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid $grayMediumLight;
+  color: $grayLight;
+  a {
+    color: $gray;
+    &:hover {
+      color: $grayDarker;
+    }
+  }
+  small {
+    float: left;
+  }
+  ul {
+    float: right;
+    list-style: none;
+    li {
+      float: left;
+      margin-left: 10px;
+    }
+  }
+}
