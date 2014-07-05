@@ -7,17 +7,7 @@ FactoryGirl.define do
     password "foobar"
     password_confirmation "foobar"
   end
-  
-=======
-    name     "Kevin"
-    lastname    "Mendez"
-    email  "kevin@mendez.com"
-    permissions "2"
-    password "goSerbear"
-    password_confirmation "goSerbear"
-  end
 
->>>>>>> sign-in-page-authentication
   factory :spare_part do
     brand     "VW"
     car    "Jetta"
@@ -27,4 +17,17 @@ FactoryGirl.define do
     name "Volante"
     type "Externa"
   end
+
+  factory :brand do
+    name "VW"
+  end
+
+  factory :car do
+    id_brand 1
+    car_type "Hatchback"
+    year 2013
+    generation "4ta 2008-2013"
+    model "Golf GTI"
+  end
+  
 end
