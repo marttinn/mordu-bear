@@ -1,0 +1,2185 @@
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:20 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.7ms)
+  Rendered spare_parts/_form.html.erb (20.1ms)
+  Rendered spare_parts/new.html.erb within layouts/application (25.7ms)
+Warning. Error encountered while saving cache 88ed0410696e5f59b522c0423d079ab7b3e061be/cars.css.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache 88ed0410696e5f59b522c0423d079ab7b3e061be/custom.css.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache d9acc0ccbd74c52418000659a0b2b890e65ea506/bootstrap.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/bootstrap.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_variables.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_mixins.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_reset.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_grid.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_layouts.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_type.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_code.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_forms.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_tables.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_sprites.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_wells.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_component-animations.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_close.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_buttons.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_button-groups.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_alerts.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_navs.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_navbar.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_pagination.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_pager.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_modals.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_tooltip.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_popovers.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_media.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_accordion.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_carousel.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache b58d540fbdebe53f6a3a70f5bc29ba8d963b35ac/_utilities.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache 88ed0410696e5f59b522c0423d079ab7b3e061be/spare_parts.css.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache 88ed0410696e5f59b522c0423d079ab7b3e061be/static_pages.css.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Warning. Error encountered while saving cache 88ed0410696e5f59b522c0423d079ab7b3e061be/users.css.scssc: can't dump anonymous class #<Class:0x007f937701d6e8>
+
+Completed 200 OK in 4957ms (Views: 4948.6ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.2ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.0ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 9ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (60.4ms)
+Completed 200 OK in 64ms (Views: 62.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:11:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.5ms)
+  Rendered spare_parts/_form.html.erb (16.5ms)
+  Rendered spare_parts/new.html.erb within layouts/application (20.1ms)
+Completed 200 OK in 84ms (Views: 77.5ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.8ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:12:49 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (4.2ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:30 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.0ms)
+  Rendered spare_parts/_form.html.erb (15.5ms)
+  Rendered spare_parts/new.html.erb within layouts/application (22.2ms)
+Completed 200 OK in 89ms (Views: 83.0ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (5.1ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.8ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.6ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.1ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.4ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:13:31 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.7ms)
+  Rendered spare_parts/_form.html.erb (21.5ms)
+  Rendered spare_parts/new.html.erb within layouts/application (25.9ms)
+Completed 200 OK in 92ms (Views: 86.5ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 11ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.8ms)
+Completed 200 OK in 9ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:14:22 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.4ms)
+  Rendered spare_parts/_form.html.erb (19.4ms)
+  Rendered spare_parts/new.html.erb within layouts/application (25.0ms)
+Completed 200 OK in 90ms (Views: 83.8ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.4ms)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:15:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.9ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:36 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.2ms)
+  Rendered spare_parts/_form.html.erb (16.0ms)
+  Rendered spare_parts/new.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 89ms (Views: 80.9ms | ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (4.5ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (5.1ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.9ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.1ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.6ms)
+  Rendered spare_parts/_form.html.erb (6.7ms)
+Completed 200 OK in 10ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (8.0ms)[0m  INSERT INTO "spare_parts" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Wed, 02 Jul 2014 01:16:37 UTC +00:00], ["name", ""], ["updated_at", Wed, 02 Jul 2014 01:16:37 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Completed 500 Internal Server Error in 76ms
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.7ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.8ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:16:37 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.4ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.1ms)
+  Rendered spare_parts/_form.html.erb (13.8ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.4ms)
+Completed 200 OK in 90ms (Views: 84.1ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 8ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.6ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.4ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.4ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:17:40 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (7.0ms)[0m  INSERT INTO "spare_parts" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Wed, 02 Jul 2014 01:17:40 UTC +00:00], ["name", ""], ["updated_at", Wed, 02 Jul 2014 01:17:40 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Completed 500 Internal Server Error in 67ms
+  [1m[35m (1.7ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.6ms)
+Completed 200 OK in 10ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:17:41 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.0ms)
+  Rendered spare_parts/_form.html.erb (13.6ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 83ms (Views: 74.4ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.5ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.6ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.5ms)
+  Rendered spare_parts/_form.html.erb (7.3ms)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:18:29 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (8.1ms)[0m  INSERT INTO "spare_parts" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Wed, 02 Jul 2014 01:18:29 UTC +00:00], ["name", ""], ["updated_at", Wed, 02 Jul 2014 01:18:29 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Completed 500 Internal Server Error in 22ms
+  [1m[35m (1.8ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:52 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.0ms)
+  Rendered spare_parts/_form.html.erb (13.8ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.4ms)
+Completed 200 OK in 81ms (Views: 73.7ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 8ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 11ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.5ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:18:53 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.8ms)[0m  INSERT INTO "spare_parts" ("created_at", "name", "updated_at") VALUES (?, ?, ?)  [["created_at", Wed, 02 Jul 2014 01:18:53 UTC +00:00], ["name", ""], ["updated_at", Wed, 02 Jul 2014 01:18:53 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Completed 500 Internal Server Error in 18ms
+  [1m[35m (2.6ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.2ms)
+  Rendered spare_parts/_form.html.erb (17.2ms)
+  Rendered spare_parts/new.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 112ms (Views: 104.0ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:05 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.1ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:28:06 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:28:06 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (3.3ms)
+  Rendered spare_parts/_form.html.erb (5.2ms)
+Completed 200 OK in 267ms (Views: 50.4ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.0ms)
+  Rendered spare_parts/_form.html.erb (16.2ms)
+  Rendered spare_parts/new.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 120ms (Views: 110.1ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.9ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.9ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (5.2ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (3.3ms)
+  Rendered spare_parts/_form.html.erb (5.2ms)
+Completed 200 OK in 281ms (Views: 6.8ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.6ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.2ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.6ms)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:30:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.6ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.0ms)
+  Rendered spare_parts/_form.html.erb (17.3ms)
+  Rendered spare_parts/new.html.erb within layouts/application (22.4ms)
+Completed 200 OK in 105ms (Views: 97.0ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.5ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (5.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.8ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:33:33 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (3.3ms)
+  Rendered spare_parts/_form.html.erb (5.0ms)
+Completed 200 OK in 272ms (Views: 6.6ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.1ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.3ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:33:34 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.1ms)
+  Rendered spare_parts/_form.html.erb (13.7ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.2ms)
+Completed 200 OK in 89ms (Views: 82.6ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.5ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.1ms)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.3ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.2ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.6ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 255ms (Views: 5.8ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (6.7ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.3ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:02 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:02 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.6ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:44 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.1ms)
+  Rendered spare_parts/_form.html.erb (13.8ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.4ms)
+Completed 200 OK in 81ms (Views: 74.3ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.4ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.7ms)
+  Rendered spare_parts/_form.html.erb (4.4ms)
+Completed 200 OK in 250ms (Views: 6.0ms | ActiveRecord: 0.5ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.5ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (4.1ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (2.8ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (1.1ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:34:45 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:34:45 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.2ms)
+  Rendered spare_parts/_form.html.erb (14.0ms)
+  Rendered spare_parts/new.html.erb within layouts/application (18.3ms)
+Completed 200 OK in 83ms (Views: 76.6ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.3ms)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.5ms)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:24 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.6ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 261ms (Views: 5.8ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.6ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.5ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.0ms)
+Completed 200 OK in 10ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35m (0.4ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:25 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.0ms)
+  Rendered spare_parts/_form.html.erb (16.3ms)
+  Rendered spare_parts/new.html.erb within layouts/application (21.3ms)
+Completed 200 OK in 114ms (Views: 106.5ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.3ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (4.0ms)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:50 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.7ms)
+  Rendered spare_parts/_form.html.erb (4.4ms)
+Completed 200 OK in 266ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.7ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (4.9ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered shared/_errors_messages.html.erb (1.6ms)
+  Rendered spare_parts/_form.html.erb (5.0ms)
+Completed 200 OK in 14ms (Views: 7.9ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.8ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (1.0ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 9ms (Views: 5.9ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered shared/_errors_messages.html.erb (1.6ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 10ms (Views: 6.2ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.4ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (0.8ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:35:51 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:35:51 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (1.0ms)
+  Rendered spare_parts/_form.html.erb (2.8ms)
+Completed 200 OK in 59ms (Views: 4.8ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.5ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.3ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.3ms)
+  Rendered spare_parts/_form.html.erb (18.3ms)
+  Rendered spare_parts/new.html.erb within layouts/application (21.9ms)
+Completed 200 OK in 90ms (Views: 83.4ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.7ms)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:25 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.4ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.4ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.0ms)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.6ms)
+  Rendered spare_parts/_form.html.erb (5.5ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (4.1ms)
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (3.0ms)
+  Rendered spare_parts/_form.html.erb (4.7ms)
+Completed 200 OK in 246ms (Views: 6.4ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.6ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (3.5ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:36:26 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:36:26 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:36:26 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered shared/_errors_messages.html.erb (1.7ms)
+  Rendered spare_parts/_form.html.erb (4.8ms)
+Completed 200 OK in 12ms (Views: 7.4ms | ActiveRecord: 0.2ms)
+  [1m[35m (2.7ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.0ms)
+  Rendered spare_parts/_form.html.erb (14.2ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.9ms)
+Completed 200 OK in 85ms (Views: 79.1ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (5.0ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.9ms)
+Completed 200 OK in 9ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.5ms)
+Completed 200 OK in 8ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (3.2ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:37:12 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.7ms)
+  Rendered spare_parts/_form.html.erb (4.4ms)
+Completed 200 OK in 252ms (Views: 6.0ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (2.1ms)
+  Rendered spare_parts/_form.html.erb (13.9ms)
+  Rendered spare_parts/new.html.erb within layouts/application (17.5ms)
+Completed 200 OK in 86ms (Views: 79.5ms | ActiveRecord: 0.3ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.7ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (5.0ms)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.3ms)
+  Rendered spare_parts/_form.html.erb (4.3ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.5ms)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.4ms)
+  Rendered spare_parts/_form.html.erb (3.8ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.9ms)
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.8ms)
+  Rendered spare_parts/_form.html.erb (4.6ms)
+Completed 200 OK in 279ms (Views: 6.2ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.7ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (4.9ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:37:40 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:37:40 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:37:40 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: description, carRegion, parent_id
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36m (0.1ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  Rendered shared/_errors_messages.html.erb (1.4ms)
+  Rendered spare_parts/_form.html.erb (4.2ms)
+Completed 200 OK in 12ms (Views: 6.9ms | ActiveRecord: 0.2ms)
+  [1m[35m (0.7ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (3.0ms)
+  Rendered spare_parts/_form.html.erb (17.6ms)
+  Rendered spare_parts/new.html.erb within layouts/application (22.7ms)
+Completed 200 OK in 116ms (Views: 105.2ms | ActiveRecord: 0.4ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.0ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.9ms)
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.4ms)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.2ms)
+  Rendered spare_parts/_form.html.erb (3.6ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.2ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.5ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (2.1ms)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:43:38 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"", "brand"=>"", "description"=>"", "carRegion"=>"", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: parent_id
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  Rendered shared/_errors_messages.html.erb (2.7ms)
+  Rendered spare_parts/_form.html.erb (4.4ms)
+Completed 200 OK in 286ms (Views: 5.9ms | ActiveRecord: 0.2ms)
+  [1m[36m (0.1ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.8ms)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+Started GET "/spare_parts/new" for 127.0.0.1 at 2014-07-01 20:43:39 -0500
+Processing by SparePartsController#new as HTML
+  Rendered shared/_errors_messages.html.erb (0.1ms)
+  Rendered spare_parts/_form.html.erb (1.5ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.1ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mSQL (5.6ms)[0m  INSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:43:39 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:43:39 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Started POST "/spare_parts" for 127.0.0.1 at 2014-07-01 20:43:39 -0500
+Processing by SparePartsController#create as HTML
+  Parameters: {"utf8"=>"✓", "spare_part"=>{"name"=>"Para Choques", "brand"=>"VW", "description"=>"Pieza que va delante del coche", "carRegion"=>"Facia", "parent_id"=>""}, "commit"=>"Guardar"}
+Unpermitted parameters: parent_id
+  [1m[35m (0.1ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (1.8ms)[0m  [1mINSERT INTO "spare_parts" ("brand", "carRegion", "created_at", "description", "name", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["brand", "VW"], ["carRegion", "Facia"], ["created_at", Wed, 02 Jul 2014 01:43:39 UTC +00:00], ["description", "Pieza que va delante del coche"], ["name", "Para Choques"], ["updated_at", Wed, 02 Jul 2014 01:43:39 UTC +00:00]]
+  [1m[35m (0.1ms)[0m  RELEASE SAVEPOINT active_record_1
+Completed 200 OK in 10ms (Views: 3.4ms | ActiveRecord: 2.1ms)
+  [1m[36m (1.6ms)[0m  [1mrollback transaction[0m

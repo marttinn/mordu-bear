@@ -13,4 +13,5 @@ FactoryGirl.define do
     description "Pieza que va delante del coche"
     carRegion "Facia"
   end
+  
 end
